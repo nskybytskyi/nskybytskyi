@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita)](https://codeforces.com/profile/Skybytskyi.Nikita)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi)](https://atcoder.jp/users/nskybytskyi)
 
