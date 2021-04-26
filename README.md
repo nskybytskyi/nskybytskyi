@@ -5,6 +5,9 @@
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik)](https://www.codechef.com/users/sky_nik)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi)](https://atcoder.jp/users/nskybytskyi)
 
+
+![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
+
 <!--
 **Sky-Nik/Sky-Nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
