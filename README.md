@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
+
 <!--
 **Sky-Nik/Sky-Nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
