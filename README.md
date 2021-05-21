@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi)](https://leetcode.com/nskybytskyi/)
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita)](https://codeforces.com/profile/Skybytskyi.Nikita)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik)](https://www.codechef.com/users/sky_nik)
