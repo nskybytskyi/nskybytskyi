@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi)](https://leetcode.com/nskybytskyi/)
-[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita)](https://codeforces.com/profile/Skybytskyi.Nikita)
+[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
+[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
-[![codechef](https://cp-logo.vercel.app/codechef/sky_nik)](https://www.codechef.com/users/sky_nik)
-[![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi)](https://atcoder.jp/users/nskybytskyi)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
+[![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi)
 
 
 ![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
