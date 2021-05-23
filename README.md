@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
-[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi)
 
