@@ -17,10 +17,14 @@
 
 <br/>
 
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ➡️ [more videos...][youtube]
+
+---
 
 ### Competitive programming
 
@@ -30,6 +34,8 @@
 
 [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)][leetcode]
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)][bsio]
+
+---
 
 ![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
 
