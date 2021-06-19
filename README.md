@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikita Skybytskyi - aka nskybytskyi and sky-nik 👋
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Scientist, Developer, and Teacher!
 
 - 🔭 I'm currently working on cryptography and my [YouTube channel][youtube]!
 - 🌱 I'm currently learning Rust and bipartite matchings
@@ -10,12 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nskybytskyi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" />][youtube]
+[<img align="left" alt="nskybytskyi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" class="filter:invert"/>][youtube]
 [<img align="left" alt="nskybytskyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nskybytskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nskybytskyi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][instagram]
-
-
 
 <br/>
 
