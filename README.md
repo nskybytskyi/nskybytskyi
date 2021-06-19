@@ -17,6 +17,11 @@
 
 <br/>
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+➡️ [more videos...][youtube]
+
 ### Competitive programming
 
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)][codeforces]
