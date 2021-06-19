@@ -22,6 +22,7 @@
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)][codeforces]
 [![atcoder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)][atcoder]
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)][codechef]
+
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)][bsio]
 [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)][leetcode]
 
@@ -31,8 +32,10 @@
 [twitter]: https://twitter.com/skybytskyi
 [linkedin]: https://www.linkedin.com/in/nikita-skybytskyi/
 [instagram]: https://www.instagram.com/n.skybytskyi/
+
 [codeforces]: https://codeforces.com/profile/Skybytskyi.Nikita
 [atcoder]: https://atcoder.jp/users/nskybytskyi
 [codechef]: https://www.codechef.com/users/sky_nik
+
 [bsio]: https://binarysearch.com/@/nskybytskyi
 [leetcode]: https://leetcode.com/nskybytskyi/
