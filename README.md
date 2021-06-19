@@ -15,6 +15,8 @@
 [<img align="left" alt="nskybytskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nskybytskyi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+
 ### Competitive programming
 
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)][codeforces]
@@ -22,7 +24,6 @@
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)][codechef]
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)][bsio]
 [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)][leetcode]
-
 
 ![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
 
