@@ -21,6 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Codeforces #725 (Div. 3) All Solutions](https://www.youtube.com/watch?v=Fe6WR9E6VBA)
+- [Barely missing out on CASH prizes on HackerEarth.com](https://www.youtube.com/watch?v=hUPPl4Jpu-I)
+- [Geniosity or Cheating? I got DESTROYED by Bangladeshi High School Students on toph.co](https://www.youtube.com/watch?v=18i2b42Th6I)
+- [CodeChef May Starters Screencast](https://www.youtube.com/watch?v=qR8U3EtVX78)
+- [LeetCode Biweekly Contest 53 Screencast](https://www.youtube.com/watch?v=HmoRh-H2AzU)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...][youtube]
 
