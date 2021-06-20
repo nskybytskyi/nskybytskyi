@@ -10,20 +10,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nskybytskyi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" style="filter:invert(100);"/>][youtube]
-[<img align="left" alt="nskybytskyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nskybytskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nskybytskyi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nskybytskyi | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" />][youtube]
+[<img align="left" alt="nskybytskyi | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nskybytskyi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nskybytskyi | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="c-plus-plus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="my-sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="c-plus-plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="my-sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="latex" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+<img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br/>
 
