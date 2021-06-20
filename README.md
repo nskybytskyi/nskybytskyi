@@ -54,7 +54,7 @@
 
 ---
 
-![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&count_private=true&include_all_commits&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
+![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&count_private=true&include_all_commits=true&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
 
 [youtube]: https://www.youtube.com/c/NikitaSkybytskyi
 [twitter]: https://twitter.com/skybytskyi
