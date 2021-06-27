@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CodeChef June Starters Screencast [7th]](https://www.youtube.com/watch?v=kl37d8nkIBM)
 - [AtCoder Beginner Contest 207 Screencast [A-E]](https://www.youtube.com/watch?v=o_qCm6l_uEw)
 - [AtCoder Beginner Contest 206 Screecast](https://www.youtube.com/watch?v=C1y3UUkVdRc)
 - [Codeforces #725 (Div. 3) All Solutions](https://www.youtube.com/watch?v=Fe6WR9E6VBA)
 - [Barely missing out on CASH prizes on HackerEarth.com](https://www.youtube.com/watch?v=hUPPl4Jpu-I)
-- [Geniosity or Cheating? I got DESTROYED by Bangladeshi High School Students on toph.co](https://www.youtube.com/watch?v=18i2b42Th6I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
