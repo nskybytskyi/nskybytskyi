@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AtCoder Beginner Contest 208 Screencast [A-E]](https://www.youtube.com/watch?v=PqTkG-RymEQ)
 - [HackerEarth July Easy Screencast: Ridiculous Rules [6th]](https://www.youtube.com/watch?v=wLietTvpujc)
 - [CodeChef June Starters Screencast [7th]](https://www.youtube.com/watch?v=kl37d8nkIBM)
 - [AtCoder Beginner Contest 207 Screencast [A-E]](https://www.youtube.com/watch?v=o_qCm6l_uEw)
 - [AtCoder Beginner Contest 206 Screecast](https://www.youtube.com/watch?v=C1y3UUkVdRc)
-- [Codeforces #725 (Div. 3) All Solutions](https://www.youtube.com/watch?v=Fe6WR9E6VBA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
