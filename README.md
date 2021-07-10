@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HackerEarth July'21 DSA Screencast [2nd]](https://www.youtube.com/watch?v=M021B_aiN0Q)
 - [AtCoder Beginner Contest 208 Screencast [A-E]](https://www.youtube.com/watch?v=PqTkG-RymEQ)
 - [HackerEarth July Easy Screencast: Ridiculous Rules [6th]](https://www.youtube.com/watch?v=wLietTvpujc)
 - [CodeChef June Starters Screencast [7th]](https://www.youtube.com/watch?v=kl37d8nkIBM)
 - [AtCoder Beginner Contest 207 Screencast [A-E]](https://www.youtube.com/watch?v=o_qCm6l_uEw)
-- [AtCoder Beginner Contest 206 Screecast](https://www.youtube.com/watch?v=C1y3UUkVdRc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
