@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Codeforces Educational Round #112 [Virtual, A-E]](https://www.youtube.com/watch?v=Cld3iVtMaYo)
 - [Codeforces Round #735 (Div. 2) [A-D]](https://www.youtube.com/watch?v=K31O9DSVn7g)
 - [HackerEarth July'21 DSA Screencast [2nd]](https://www.youtube.com/watch?v=M021B_aiN0Q)
 - [AtCoder Beginner Contest 208 Screencast [A-E]](https://www.youtube.com/watch?v=PqTkG-RymEQ)
 - [HackerEarth July Easy Screencast: Ridiculous Rules [6th]](https://www.youtube.com/watch?v=wLietTvpujc)
-- [CodeChef June Starters Screencast [7th]](https://www.youtube.com/watch?v=kl37d8nkIBM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
