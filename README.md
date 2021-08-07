@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HackerEarth August Easy '21](https://www.youtube.com/watch?v=1RuHGHmmQWQ)
 - [Codeforces Round #734 (Div. 3) [Virtual, All Solutions]](https://www.youtube.com/watch?v=sN_LdyeEbUA)
 - [AtCoder Beginner Contest 212 Screencast [Virtual, A-G]](https://www.youtube.com/watch?v=rNsfhatNSJo)
 - [Codeforces Educational Round #112 [Virtual, A-E]](https://www.youtube.com/watch?v=Cld3iVtMaYo)
 - [Codeforces Round #735 (Div. 2) [A-D]](https://www.youtube.com/watch?v=K31O9DSVn7g)
-- [HackerEarth July'21 DSA Screencast [2nd]](https://www.youtube.com/watch?v=M021B_aiN0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
