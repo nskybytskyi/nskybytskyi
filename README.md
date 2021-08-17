@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1553/G. Common Divisor Graph (2700)](https://www.youtube.com/watch?v=4P1NjcX-WeM)
 - [AtCoder Beginner Contest 213 [A-F]](https://www.youtube.com/watch?v=MgaeMWN6zt8)
 - [HackerEarth August Easy '21](https://www.youtube.com/watch?v=1RuHGHmmQWQ)
 - [Codeforces Round #734 (Div. 3) [Virtual, All Solutions]](https://www.youtube.com/watch?v=sN_LdyeEbUA)
 - [AtCoder Beginner Contest 212 Screencast [Virtual, A-G]](https://www.youtube.com/watch?v=rNsfhatNSJo)
-- [Codeforces Educational Round #112 [Virtual, A-E]](https://www.youtube.com/watch?v=Cld3iVtMaYo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
