@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1554/E. You (2600)](https://www.youtube.com/watch?v=MRv3vznJAjI)
 - [888/E. Maximum Subsequence (1800) + 552/C. Vanya and Scales (1900)](https://www.youtube.com/watch?v=spEV329oOis)
 - [1552/F. Telepanting (2200)](https://www.youtube.com/watch?v=YITcr_C0J1c)
 - [1553/G. Common Divisor Graph (2700)](https://www.youtube.com/watch?v=4P1NjcX-WeM)
 - [AtCoder Beginner Contest 213 [A-F]](https://www.youtube.com/watch?v=MgaeMWN6zt8)
-- [HackerEarth August Easy '21](https://www.youtube.com/watch?v=1RuHGHmmQWQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
