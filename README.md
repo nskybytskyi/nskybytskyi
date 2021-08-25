@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1557/D. Ezzat and Grid (2200)](https://www.youtube.com/watch?v=lq2CLuns7MY)
 - [Two more expert-level problems](https://www.youtube.com/watch?v=McVBpsju918)
 - [Three 1800-rated Codeforces problems](https://www.youtube.com/watch?v=HYKvMPFFRVM)
 - [AtCoder Beginner Contest 215 Screencast (A-G)](https://www.youtube.com/watch?v=EV6AyFP5YEk)
 - [1554/E. You (2600)](https://www.youtube.com/watch?v=MRv3vznJAjI)
-- [888/E. Maximum Subsequence (1800) + 552/C. Vanya and Scales (1900)](https://www.youtube.com/watch?v=spEV329oOis)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
