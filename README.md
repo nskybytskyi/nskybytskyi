@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Two Specialist-Level Problems](https://www.youtube.com/watch?v=ER0Tp_hJlfA)
 - [CodeForces Round #741 (Div. 2) Analysis (A-E)](https://www.youtube.com/watch?v=9F3Ml2yHDS4)
 - [1557/D. Ezzat and Grid (2200)](https://www.youtube.com/watch?v=lq2CLuns7MY)
 - [Two more expert-level problems](https://www.youtube.com/watch?v=McVBpsju918)
 - [Three 1800-rated Codeforces problems](https://www.youtube.com/watch?v=HYKvMPFFRVM)
-- [AtCoder Beginner Contest 215 Screencast (A-G)](https://www.youtube.com/watch?v=EV6AyFP5YEk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
