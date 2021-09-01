@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Expert-Level Problems (Ep. 3: Interactive)](https://www.youtube.com/watch?v=MxBvIlDzzv8)
 - [Expert-Level Problems (Ep. 2)](https://www.youtube.com/watch?v=-3JZ7hiO6vQ)
 - [Expert-Level Problems (Ep. 1)](https://www.youtube.com/watch?v=ER0Tp_hJlfA)
 - [CodeForces Round #741 (Div. 2) Analysis (A-E)](https://www.youtube.com/watch?v=9F3Ml2yHDS4)
 - [1557/D. Ezzat and Grid (2200)](https://www.youtube.com/watch?v=lq2CLuns7MY)
-- [Two more expert-level problems](https://www.youtube.com/watch?v=McVBpsju918)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
