@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Master Problems (Ep. 2: Data Structures)](https://www.youtube.com/watch?v=wr4N3-xQeUM)
 - [Master Problems (Ep. 1)](https://www.youtube.com/watch?v=DIpmIT4IWFY)
 - [Expert-Level Problems (Ep. 3: Interactive)](https://www.youtube.com/watch?v=MxBvIlDzzv8)
 - [Expert-Level Problems (Ep. 2)](https://www.youtube.com/watch?v=-3JZ7hiO6vQ)
 - [Expert-Level Problems (Ep. 1)](https://www.youtube.com/watch?v=ER0Tp_hJlfA)
-- [CodeForces Round #741 (Div. 2) Analysis (A-E)](https://www.youtube.com/watch?v=9F3Ml2yHDS4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
