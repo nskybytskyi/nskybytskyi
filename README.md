@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Expert Problems (Ep. 5: More AtCoder)](https://www.youtube.com/watch?v=BidoKFhVVcs)
 - [Expert Problems (Ep. 4: AtCoder)](https://www.youtube.com/watch?v=qK1V21zBsy4)
 - [Master Problems (Ep. 2: Data Structures)](https://www.youtube.com/watch?v=wr4N3-xQeUM)
 - [Master Problems (Ep. 1)](https://www.youtube.com/watch?v=DIpmIT4IWFY)
 - [Expert-Level Problems (Ep. 3: Interactive)](https://www.youtube.com/watch?v=MxBvIlDzzv8)
-- [Expert-Level Problems (Ep. 2)](https://www.youtube.com/watch?v=-3JZ7hiO6vQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
