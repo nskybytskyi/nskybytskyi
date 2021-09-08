@@ -36,7 +36,7 @@
 - [Expert Problems (Ep. 4: AtCoder)](https://www.youtube.com/watch?v=qK1V21zBsy4)
 - [Master Problems (Ep. 2: Data Structures)](https://www.youtube.com/watch?v=wr4N3-xQeUM)
 - [Master Problems (Ep. 1)](https://www.youtube.com/watch?v=DIpmIT4IWFY)
-- [Expert-Level Problems (Ep. 3: Interactive)](https://www.youtube.com/watch?v=MxBvIlDzzv8)
+- [Expert Problems (Ep. 3: Interactive)](https://www.youtube.com/watch?v=MxBvIlDzzv8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
