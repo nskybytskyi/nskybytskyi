@@ -32,7 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Data Structures in Dynamic Programming Week](https://www.youtube.com/watch?v=Aaceu-Z0abc)
+- [Data Structures in Dynamic Programming](https://www.youtube.com/watch?v=Aaceu-Z0abc)
 - [New Year, New Content!](https://www.youtube.com/watch?v=KgzZHpx-DDI)
 - [Expert Problems &lpar;Ep. 8: blue ARC&rpar;](https://www.youtube.com/watch?v=eTtE4MwpYwA)
 - [Expert Problems &lpar;Ep. 7: cyan ARC is a lie&rpar;](https://www.youtube.com/watch?v=DgGlZCW3To4)
