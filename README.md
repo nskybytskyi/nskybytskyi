@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Better than tourist Week](https://www.youtube.com/watch?v=dnL5TXL-tDA)
 - [Data Structures in Dynamic Programming](https://www.youtube.com/watch?v=Aaceu-Z0abc)
 - [New Year, New Content!](https://www.youtube.com/watch?v=KgzZHpx-DDI)
 - [Expert Problems &lpar;Ep. 8: blue ARC&rpar;](https://www.youtube.com/watch?v=eTtE4MwpYwA)
 - [Expert Problems &lpar;Ep. 7: cyan ARC is a lie&rpar;](https://www.youtube.com/watch?v=DgGlZCW3To4)
-- [Master Problems &lpar;Ep. 3: Educational&rpar;](https://www.youtube.com/watch?v=4dlVV2jLXYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
