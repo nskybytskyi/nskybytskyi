@@ -1,74 +1,40 @@
-### Hi there, I'm Nikita Skybytskyi - aka nskybytskyi and sky-nik 👋
+![Banner](banner.png)
 
-## I'm a Scientist, Developer, and Teacher!
+# Hello! I'm Nikita.
 
-- 🔭 I'm currently working on cryptography and my [YouTube channel][youtube]!
-- 🌱 I'm currently learning Rust and bipartite matchings
-- 👯 I'm looking to collaborate on competitive programming
-- 💬 Ask me about python and mathematics
-- 🥅 2021 Goals: Grandmaster on Codeforces, 7⭐ on CodeChef, 3 Dan on AtCoder
+Ph.D. student in **applied mathematics**.
+3+ years of professional experience as **software developer**.
+Expert in **algorithms and data structures**.
+Proficient in **Python** and **C++**.
+Knowledgeable about **Rust** and **Java**.
+Experienced in **database management**, **data analytics**, and **quality assurance**.
 
-### Connect with me:
+- 🔭 I’m currently working on a data structure in C++ and a password manager in Rust
+- 🌱 I'm currently learning SQL window functions and various DevOps tools
+- 👯 I’m looking to collaborate on open source data analytics projects in Python
+- 😀 I like making videos, watching anime, and playing video games in my free time
+- 💬 Ask me about robust combinatorial optimization and cryptographic protocols
+- 🥅 2023 Goals: publish an article, release 3 projects, solve all LeetCode problems
+- ✨ Fun fact: I once learned to type at 120 WPM only to forget it all months later
 
-[<img align="left" alt="nskybytskyi | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" />][youtube]
-[<img align="left" alt="nskybytskyi | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nskybytskyi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nskybytskyi | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][instagram]
+## Competitive Programming
 
-<br />
+I love solving algorithmic puzzles in a time-constrained manner. Here are some of my [stats](https://clist.by/coder/Sky_Nik/):
 
-### Languages and Tools:
+[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
+[![codeforces](https://cp-logo.vercel.app/codeforces/nskybytskyi?logo=true)](https://codeforces.com/profile/nskybytskyi)
+[![atcoder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi)
+[![topcoder](https://cp-logo.vercel.app/topcoder/Sky_Nik?logo=true)](https://www.topcoder.com/members/Sky_Nik)
 
-<img align="left" alt="c-plus-plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="my-sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="latex" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## Socials
 
-<br/>
+I have two YouTube channels where I share educational videos in [Ukrainian](https://youtube.com/@leetcodeukraine) and [English](https://youtube.com/@nskybytskyi).
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nikita-skybytskyi/)
+[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/n.skybytskyi/)
+[![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/skybytskyi)
+[![YouTube Subs](https://img.shields.io/youtube/channel/subscribers/UCMkdawJIiCQR1iyE0ZvlaqA?style=social)](https://youtube.com/@nskybytskyi)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCMkdawJIiCQR1iyE0ZvlaqA?style=social)](https://youtube.com/@nskybytskyi)
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Better than tourist Week](https://www.youtube.com/watch?v=dnL5TXL-tDA)
-- [Data Structures in Dynamic Programming](https://www.youtube.com/watch?v=Aaceu-Z0abc)
-- [New Year, New Content!](https://www.youtube.com/watch?v=KgzZHpx-DDI)
-- [Expert Problems &lpar;Ep. 8: blue ARC&rpar;](https://www.youtube.com/watch?v=eTtE4MwpYwA)
-- [Expert Problems &lpar;Ep. 7: cyan ARC is a lie&rpar;](https://www.youtube.com/watch?v=DgGlZCW3To4)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### Competitive programming
-
-[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)][codeforces]
-[![atcoder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)][atcoder]
-[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)][codechef]
-
-[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)][leetcode]
-[![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)][bsio]
-
----
-
-### 
-
-![Nikita's Github Analysis](https://github-readme-stats.vercel.app/api?username=Sky-Nik&show_owner=true&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark)
-
-[youtube]: https://www.youtube.com/c/NikitaSkybytskyi
-[twitter]: https://twitter.com/skybytskyi
-[linkedin]: https://www.linkedin.com/in/nikita-skybytskyi/
-[instagram]: https://www.instagram.com/n.skybytskyi/
-
-[codeforces]: https://codeforces.com/profile/Skybytskyi.Nikita
-[atcoder]: https://atcoder.jp/users/nskybytskyi
-[codechef]: https://www.codechef.com/users/sky_nik
-
-[bsio]: https://binarysearch.com/@/nskybytskyi
-[leetcode]: https://leetcode.com/nskybytskyi/
-
-
-
+![Nikita's Github Stats](https://github-readme-stats.vercel.app/api?username=nskybytskyi&show_icons=true)
