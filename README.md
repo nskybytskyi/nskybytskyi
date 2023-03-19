@@ -27,7 +27,7 @@ I love solving algorithmic puzzles in a time-constrained manner. Here are some o
 [![atcoder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi)
 [![topcoder](https://cp-logo.vercel.app/topcoder/Sky_Nik?logo=true)](https://www.topcoder.com/members/Sky_Nik)
 
-To get started with competitive programming, check out [CSES Problem Set](https://cses.fi/problemset/), [USACO Guide](https://usaco.guide/), [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf), [Algorithms for Competitive Programming](https://cp-algorithms.com/), and either [AtCoder Library](https://github.com/atcoder/ac-library) or [PyRival](https://github.com/cheran-senthil/PyRival).
+To get started with competitive programming, check out [CSES Problem Set](https://cses.fi/problemset/), [USACO Guide](https://usaco.guide/), [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf), and either [AtCoder Library](https://github.com/atcoder/ac-library) or [PyRival](https://github.com/cheran-senthil/PyRival). For additional resources, take a look at this [list](https://github.com/stars/nskybytskyi/lists/competitive-programming).
 
 ## Socials
 
