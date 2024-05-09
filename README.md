@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# Hello! I am Nikita.
+# Hello! I am Nika.
 
 Ph.D. student in **applied mathematics**.
 3+ years of professional experience as a **software developer**.
