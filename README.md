@@ -21,10 +21,10 @@ Experienced in **database management**, **data analytics**, and **quality assura
 
 I love solving algorithmic puzzles in a time-constrained manner. Here are some of my [stats](https://clist.by/coder/Sky_Nik/):
 
-[![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
-[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
-[![codeforces](https://cp-logo.vercel.app/codeforces/nskybytskyi?logo=true)](https://codeforces.com/profile/nskybytskyi)
-[![atcoder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi)
+[![leetcode](https://cp-logo.vercel.app/leetcode/nika-skybytska?logo=true)](https://leetcode.com/nika-skybytska/)
+[![codechef](https://cp-logo.vercel.app/codechef/nskybytskyi?logo=true)](https://www.codechef.com/users/nskybytskyi)
+[![codeforces](https://cp-logo.vercel.app/codeforces/nika-skybytska?logo=true)](https://codeforces.com/profile/nika-skybytska)
+[![atcoder](https://cp-logo.vercel.app/atcoder/nika_skybytska?logo=true)](https://atcoder.jp/users/nika_skybytska)
 [![topcoder](https://cp-logo.vercel.app/topcoder/Sky_Nik?logo=true)](https://www.topcoder.com/members/Sky_Nik)
 
 To get started with competitive programming, check out [CSES Problem Set](https://cses.fi/problemset/), [USACO Guide](https://usaco.guide/), [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf), and either [AtCoder Library](https://github.com/atcoder/ac-library) or [PyRival](https://github.com/cheran-senthil/PyRival). For additional resources, take a look at this [list](https://github.com/stars/nskybytskyi/lists/competitive-programming).
