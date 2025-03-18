@@ -34,10 +34,8 @@ To get started with competitive programming, check out [CSES Problem Set](https:
 I have two YouTube channels where I share educational videos in [Ukrainian](https://youtube.com/@leetcodeukraine) and [English](https://youtube.com/@nskybytskyi).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nikita-skybytskyi/)
-[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/n.skybytskyi/)
 [![Facebook](https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook)](https://www.facebook.com/nikita.skybytskyi/)
 [![Reddit](https://img.shields.io/badge/Reddit--_.svg?style=social&logo=reddit)](https://www.reddit.com/user/NikitaSkybytskyi)
-[![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/skybytskyi)
 [![YouTube Subs](https://img.shields.io/youtube/channel/subscribers/UCMkdawJIiCQR1iyE0ZvlaqA?style=social)](https://youtube.com/@nskybytskyi)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCMkdawJIiCQR1iyE0ZvlaqA?style=social)](https://youtube.com/@nskybytskyi)
 
